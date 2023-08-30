@@ -24,15 +24,15 @@ This project is a web template for SwipeCo, a fictitious company related to fina
 
 To clone this repository, run the following command in your terminal:
 
-\`\`\`bash
+```bash
 git clone https://github.com/your-username/SwipeCo-Web-Template.git
-\`\`\`
+```
 
 Then, navigate into the directory:
 
-\`\`\`bash
+```bash
 cd SwipeCo-Web-Template
-\`\`\`
+```
 
 Open the `index.html` file in your web browser to view the project.
 
