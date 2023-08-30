@@ -11,6 +11,8 @@ This project is a web template for SwipeCo, a fictitious company related to fina
 - Responsive Design
 - Smooth Gradients using JavaScript
 - Intuitive User Interface
+- Support for Modern Browsers
+
 
 ## Technologies Used
 
@@ -25,7 +27,7 @@ This project is a web template for SwipeCo, a fictitious company related to fina
 To clone this repository, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/your-username/SwipeCo-Web-Template.git
+git clone [https://github.com/your-username/SwipeCo-Web-Template.git](https://github.com/amw514/Swipe-Project.git)
 ```
 
 Then, navigate into the directory:
