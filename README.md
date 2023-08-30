@@ -4,7 +4,7 @@
 
 This project is a web template for SwipeCo, a fictitious company related to financial transactions. The project is made with HTML, CSS, and JavaScript (for generating gradients). Note that this is purely a template and does not have any back-end functionality.
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/amw514/Swipe-Project/blob/main/assets/Swipe.jpg)
 
 ## Features
 
