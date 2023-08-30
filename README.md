@@ -61,4 +61,4 @@ We welcome contributions! If you're interested in improving the SwipeCo Web Temp
 
 ## License
 
-This project is licensed under the MIT License - see the [[LICENSE.md](LICENSE.md)](https://github.com/amw514/Swipe-Project/blob/main/LICENSE)https://github.com/amw514/Swipe-Project/blob/main/LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/amw514/Swipe-Project/blob/main/LICENSE) file for details.
